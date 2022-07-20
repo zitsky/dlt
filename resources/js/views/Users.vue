@@ -28,7 +28,6 @@
             </button>
         </template>
     </vue-table>
-    {{activeDestroyModal}}
     <users-modal :modalActive="addUserModal" @close="closeUserModal" :type="currentUserId ? 'edit' : 'add'" :customer-id="currentUserId" :model="editUserModel"></users-modal>
     <modal :modalActive="activeDestroyModal" @close="activeDestroyModal = false">
         <template v-slot:title>{{ $t("defaults.modal.destroy.title") }}</template>
