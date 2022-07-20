@@ -1,0 +1,23 @@
+/*!
+  * @intlify/core-base v9.1.10
+  * (c) 2022 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * @intlify/devtools-if v9.1.10
+  * (c) 2022 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * @intlify/runtime v9.1.10
+  * (c) 2022 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+//! moment.js
+
+//! moment.js locale configuration
